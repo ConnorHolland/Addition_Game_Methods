@@ -5,9 +5,7 @@
 The code below is a revamp of the addition game problem that we have done previously this semester. The addition game was changed from a total of about 200 lines to a mere 50 lines. Creating and calling methods as well as for loops are the programming tricks that made this possible.
 
 ## Project Outline
-```java
-//TODO: Fill me in
-```
+The code is made to ask four questions and award points based off their difficulty. If the previous question was correct the next question will be made harder, if the previous question was incorrect the next question will be made easier.
 
 
 ##  References & Literature
@@ -81,13 +79,11 @@ Question 4:
 330 + 167 = 497
 Correct! Your score is now 444.
 Thanks for playing :)
-
 ```
 
 ## Command Prompt Output
-```
 Github was used to make an md file so i could turn my assignment in on canvas. I initiated a repository with an md file and made direct changes on github to the README.md file.
-```
+
 
 ## Summary
 I used for loops as well as creating methods for this assignment. The combination of these things allowed me to greatly simplify the addition game we created in homework 6. For loops and methods are very useful as long as you understand the parameters of these two programming tricks.
